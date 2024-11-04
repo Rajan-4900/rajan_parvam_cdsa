@@ -25,4 +25,6 @@ int main(){
 
     printf("%d\n",valid);
     printf("%d\n",invalid);
+
+    return 0;
 }
