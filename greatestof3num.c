@@ -1,6 +1,5 @@
 #include<stdio.h>
 int main(){
-
     int a;
     int b;
     int c;
@@ -19,3 +18,4 @@ int main(){
         printf("c is greater");
     }
 }
+
