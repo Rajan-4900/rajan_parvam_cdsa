@@ -7,4 +7,6 @@ int main(){
     printf("jyothishwar \"dodanna\" \n");
     printf("this a escapesequence \'statement\' \n");
     printf("this is a second of escape it\'s \n");
+
+    return 0;
 }
